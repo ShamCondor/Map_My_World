@@ -1,0 +1,2 @@
+ball_chaser:my_robot
+-DCATKIN_DEVEL_PREFIX=/home/sfy/robotdevelop/project/others/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sfy/robotdevelop/project/others/catkin_ws/install -G Unix Makefiles
